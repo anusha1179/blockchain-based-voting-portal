@@ -85,7 +85,3 @@ We propose a **Blockchain-Based Decentralized Online Voting System** that addres
 - ✅ Eliminates long queues
 - ✅ Reduces fraud & intimidation
 
----
-## 👨‍💻 Contributors
-- [Pratik Roy](https://github.com/pratikroy107)
-- [Arijit Dasgupta](https://github.com/arijitdasgupta11)
